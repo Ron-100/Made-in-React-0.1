@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": "001",
+      "image": "https://cdn.pixabay.com/photo/2015/09/09/18/08/race-932254_1280.jpg",
+      "tag": "Istanbul Half Marathon 2024",
+      "date": "April 22, 2024",
+      "compos": "General",
+      "time": "Start 06:00 AM - Until Finish",
+      "location": "Topkapı, Istanbul - Turkey",
+      "ticketPrice": "$50",
+      "mrinfo": "Join the Istanbul Half Marathon 2024 for a breathtaking run along the Bosphorus. This event brings together elite and amateur runners from all over the world for a scenic and competitive 21K experience."
+    },
+    {
+      "id": "002",
+      "image": "https://cdn.pixabay.com/photo/2024/09/28/11/09/boys-9080808_1280.jpg",
+      "tag": "Sunrise 5K Fun Run",
+      "date": "May 15, 2024",
+      "compos": "Recreational",
+      "time": "Start 07:00 AM - Until 09:00 AM",
+      "location": "Central Park, New York - USA",
+      "ticketPrice": "$50",
+      "mrinfo": "Experience the magic of Central Park at dawn in the Sunrise 5K. Perfect for all skill levels, enjoy the skyline views and post-run celebration with fellow runners."
+    },
+    {
+      "id": "003",
+      "image": "https://cdn.pixabay.com/photo/2015/09/09/18/08/race-932254_1280.jpg",
+      "tag": "London City Marathon",
+      "date": "June 10, 2024",
+      "compos": "Professional",
+      "time": "Start 08:00 AM - Until 02:00 PM",
+      "location": "London - United Kingdom",
+      "ticketPrice": "$50",
+      "mrinfo": "Race through the iconic streets of London in this globally recognized marathon. Thousands of runners, stunning landmarks, and electrifying crowds make this an unforgettable experience."
+    },
+    {
+      "id": "004",
+      "image": "https://cdn.pixabay.com/photo/2016/08/13/00/22/start-1590051_1280.jpg",
+      "tag": "Tokyo Night Run",
+      "date": "July 20, 2024",
+      "compos": "Night Event",
+      "time": "Start 08:30 PM - Until 11:00 PM",
+      "location": "Tokyo Bay Area - Japan",
+      "ticketPrice": "$50",
+      "mrinfo": "Dash through the dazzling lights of Tokyo in this nighttime run by the bay. A perfect blend of fitness and nightlife energy with music, lights, and adrenaline!"
+    },
+    {
+      "id": "005",
+      "image": "https://cdn.pixabay.com/photo/2017/01/01/15/45/running-1944798_1280.jpg",
+      "tag": "Summer Beach Run",
+      "date": "August 5, 2024",
+      "compos": "Casual",
+      "time": "Start 06:30 AM - Until 08:30 AM",
+      "location": "Bondi Beach, Sydney - Australia",
+      "ticketPrice": "$50",
+      "mrinfo": "Start your day with the waves! Our beachside 5K run along Bondi is a perfect mix of fun, sand, and sunshine. Great for families and beginners."
+    },
+    {
+      "id": "006",
+      "image": "https://cdn.pixabay.com/photo/2022/11/07/03/50/fitness-7575530_1280.jpg",
+      "tag": "Berlin Relay Challenge",
+      "date": "September 12, 2024",
+      "compos": "Team",
+      "time": "Start 09:00 AM - Until 01:00 PM",
+      "location": "Berlin - Germany",
+      "ticketPrice": "$50",
+      "mrinfo": "Team up for the ultimate relay event in Berlin! This high-energy race encourages teamwork and speed through historic cityscapes and cheering spectators."
+    },
+    {
+      "id": "007",
+      "image": "https://cdn.pixabay.com/photo/2016/11/18/13/23/action-1834465_1280.jpg",
+      "tag": "Forest Trail Run",
+      "date": "October 3, 2024",
+      "compos": "Trail",
+      "time": "Start 07:00 AM - Until 10:00 AM",
+      "location": "Black Forest - Germany",
+      "ticketPrice": "$50",
+      "mrinfo": "Immerse yourself in nature with this scenic trail run through the Black Forest. Quiet paths, fresh air, and an unforgettable wilderness adventure."
+    },
+    {
+      "id": "008",
+      "image": "https://cdn.pixabay.com/photo/2016/01/04/10/38/running-1120606_1280.jpg",
+      "tag": "Urban Charity Walk",
+      "date": "October 25, 2024",
+      "compos": "Charity",
+      "time": "Start 10:00 AM - Until 01:00 PM",
+      "location": "Toronto - Canada",
+      "ticketPrice": "$50",
+      "mrinfo": "Support a cause and explore the city on foot. This family-friendly 5K walk raises funds for local shelters. Enjoy live music and food stalls after your walk!"
+    },
+    {
+      "id": "009",
+      "image": "https://cdn.pixabay.com/photo/2022/11/07/03/39/fitness-7575502_1280.jpg",
+      "tag": "Desert Dash",
+      "date": "November 18, 2024",
+      "compos": "Endurance",
+      "time": "Start 05:00 AM - Until 11:00 AM",
+      "location": "Sahara Desert - Morocco",
+      "ticketPrice": "$50",
+      "mrinfo": "Push your limits with this endurance event across the Sahara. A challenging yet rewarding race in the stunning desert landscape, open to ultra runners and adventurers."
+    },
+    {
+      "id": "010",
+      "image": "https://cdn.pixabay.com/photo/2021/09/27/10/02/running-6660187_1280.jpg",
+      "tag": "Arctic Snow Run",
+      "date": "December 8, 2024",
+      "compos": "Extreme",
+      "time": "Start 09:00 AM - Until 12:00 PM",
+      "location": "Rovaniemi, Lapland - Finland",
+      "ticketPrice": "$50",
+      "mrinfo": "Embrace the chill with our snow-packed winter run in Lapland. Ice trails, pine forests, and a true test of willpower — finish strong and warm up with hot cocoa!"
+    }
+  ]
+}
